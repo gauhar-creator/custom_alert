@@ -13,6 +13,17 @@
   background: #fff;
   padding: 24px;
   width: 320px;
+  height: 20px;
   border-radius: 8px;
   text-align: center;
+
+  .closeButton{
+    background: red;
+    color: white;
+    padding: 10px;
+    border-radius: 16px;
+    border
+    
+
+  }
 }
